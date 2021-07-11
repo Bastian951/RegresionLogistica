@@ -4,6 +4,6 @@
 format: jb-book
 root: intro
 chapters:
-- file: markdown
-- file: notebooks
-- file: notebooks02
+- file: 01
+- file: 02
+- file: 03
